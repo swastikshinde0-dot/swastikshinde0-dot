@@ -37,19 +37,3 @@ Still learning. Still building. Still growing. 🌱
 
 ---
 [![](https://komarev.com/ghpvc/?username=swastikshinde0-dot&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->👋 Hi, I'm [Your Name]
-I'm on a journey from learning technology to building real-world software.
-💻 Developer in Progress — learning by building, experimenting, and solving problems.
-🌱 Currently Learning
-* ☁️ Cloud Computing — understanding cloud infrastructure, deployment, and scalable applications
-* 🗄️ SQL & Databases — learning database design, queries, relationships, and data management
-* 💻 Software Development — building projects and strengthening programming fundamentals
-* 🌐 Web & Backend Development — exploring APIs, servers, and application architecture
-* 🤖 AI & Modern Technologies — exploring how AI can be integrated into real-world applications
-🛠️ What I'm Doing
-Learn → Build → Experiment → Break → Fix → Improve → Repeat 🔁
-I'm using GitHub to document my learning journey, build projects, experiment with new technologies, and turn concepts into practical experience.
-🚀 My Goal
-To become a skilled developer who can design, build, deploy, and maintain reliable applications — from the database and backend to the cloud.
-Still learning. Still building. Still growing. 🌱
